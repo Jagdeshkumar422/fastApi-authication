@@ -1,0 +1,1 @@
+pip install fastapi uvicorn passlib[bcrypt] pyjwt python-dotenv pymongo[snappy] motor
